@@ -48,6 +48,12 @@ car_parking_space_detection/
 5. **Counting**: The system keeps track of the total number of parking spaces and the number of occupied spaces. It updates these counts in real-time.
 6. **Display or Output**: The project can display the parking lot layout with each parking space's status (occupied/vacant) through a GUI or output this information to a file or console.
 
+## Images
+
+![image](https://github.com/yashh2417/faltu/blob/main/app.png?raw=true)
+
+![image](https://github.com/yashh2417/faltu/blob/main/detection.png?raw=true)
+
 ## Contributions
 
 Contributions to this project are welcome. You can contribute by improving the detection accuracy, adding new features, or enhancing the user interface.
