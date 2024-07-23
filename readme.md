@@ -52,10 +52,6 @@ car_parking_space_detection/
 
 Contributions to this project are welcome. You can contribute by improving the detection accuracy, adding new features, or enhancing the user interface.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
 
 Feel free to customize this README file to include specific details about your project, such as implementation details, system requirements, or any additional features you have added. Good luck with your Car Parking Space Detection project!
